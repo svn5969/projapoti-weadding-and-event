@@ -1,7 +1,6 @@
-import down from '../../../images/social/Dtafalonso-Android-Lollipop-Downloads.png';
-import React, { useState } from 'react';
+import React from 'react';
 import './ProjectCard.css';
-import Carousel from 'react-bootstrap/Carousel';
+// import Carousel from 'react-bootstrap/Carousel';
 import Modal from 'react-modal';
 import { Card ,Button} from 'react-bootstrap';
 import TextEffect from '../../home/Header/TextEffect/TextEffect';
