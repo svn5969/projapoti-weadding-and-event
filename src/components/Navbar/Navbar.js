@@ -22,8 +22,8 @@ const NavBar = () => {
         <Nav className=" ml-auto ms-5 mr-auto options ps-5">
           <Link smooth className="nav-link ms-5 px-5 text-white " to="#home">Home</Link>
 
-          <Link smooth className="nav-link ms-5 text-white px-5 " to="#projects">Projects</Link>
-          <Link smooth className="nav-link ms-5 text-white px-5 " to="#contract">Contract Us</Link>
+          <Link smooth className="nav-link ms-5 text-white px-5 " to="#projects">Events</Link>
+          <Link smooth className="nav-link ms-5 text-white px-5 " to="#gallery">Gallery</Link>
 
 
           <ul class="social-icons  ms-5 ps-5">

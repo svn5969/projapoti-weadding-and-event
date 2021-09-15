@@ -2,6 +2,7 @@ import React from 'react';
 import Particles from 'react-particles-js';
 import Footer from '../Footer/Footer';
 import Navbar from '../Navbar/Navbar';
+import Gallary from '../Projects/Gallary/Gallary';
 import Projects from '../Projects/Projects';
 import Header from './Header/Header';
 
@@ -154,7 +155,7 @@ const Home = () => {
            <Navbar></Navbar>
            </div>
           <Header></Header>
-         
+         <Gallary></Gallary>
           <Projects></Projects>
           
        
